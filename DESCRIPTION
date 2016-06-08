@@ -1,0 +1,16 @@
+Package: bstat
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Author@R: D Krishna <krishnad2@gmail.com> 
+Description: Evaluates frequency distribution of any variable, mean and standard deviation of 
+             any vector/dataframe, residual analysis of regression model and also extracts 
+             training and test datasets from any given data frame.
+Depends:
+    R (>= 3.2.4)
+License: 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1.9000
+Imports:
+    plyr,
+    reshape
